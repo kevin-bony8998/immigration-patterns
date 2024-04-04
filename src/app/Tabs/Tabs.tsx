@@ -39,7 +39,7 @@ export const Tabs = () => {
                     </label>
                     <ul className="dropdown-container dropdown__items">
                         {tabTitles.map((tabTitle: string, tabIdx: number) => (
-                            <TabComponent tabName={tabTitle} onTabSelection={onTabSelection} tabIdx={tabIdx} isDropdownOpen={isDropdownOpen}/>
+                            <TabComponent tabName={tabTitle} onTabSelection={onTabSelection} tabIdx={tabIdx} isDropdownOpen={isDropdownOpen} key={tabIdx}/>
                         ))}
                     </ul>
                 </div>

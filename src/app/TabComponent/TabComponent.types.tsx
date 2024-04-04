@@ -3,4 +3,5 @@ export interface TabComponentProps {
     tabIdx: number,
     onTabSelection: (tabIdx: number) => void,
     isDropdownOpen: boolean,
+    key: number,
 }
