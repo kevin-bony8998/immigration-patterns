@@ -1,4 +1,4 @@
-"use client"; 
+"use client";
 
 import React, { useState, useEffect, useRef } from "react";
 import { labelsValues } from "./datasets/constants";
@@ -10,7 +10,6 @@ export const World = () => {
 
   useEffect(() => {
     setPlaces(labelsValues.features);
-    console.log("Features:", labelsValues.features);
   }, []);
 
   return <Globe
