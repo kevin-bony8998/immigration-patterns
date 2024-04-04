@@ -3,12 +3,7 @@
 import "./globals.css";
 import dynamic from 'next/dynamic';
 import { useEffect, useState } from "react";
-import { create } from "zustand";
-
-const useGlobalDataStore = create((set) => ({
-  selectedTabIdx: 0,
-  setSelectedTabIdx: (idx: number) => set({selectedTabIdx: idx}),
-}))
+import { Tabs } from "./Tabs/Tabs";
 
 export default function RootLayout() {
   const World = dynamic(
@@ -31,7 +26,10 @@ export default function RootLayout() {
       </head>
       <body className={'main-body-class '}>
         {domLoaded && (
-          <World />
+          <>
+            <Tabs />
+            <World />
+          </>
         )}
       </body>
     </html>

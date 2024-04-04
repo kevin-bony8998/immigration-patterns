@@ -18,3 +18,9 @@ export const labelsValues = {
         64.1500236197392
     ]
 }
+
+export const tabTitles = [
+    'Immigration Patterns in 2018',
+    'Immigration Patterns in 2019',
+    'Immigration Patterns in 2018 and 2019',
+]
