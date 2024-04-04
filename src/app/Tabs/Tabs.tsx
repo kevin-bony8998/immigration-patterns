@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { tabTitles } from "../datasets/constants";
-import { useGlobalDataStore } from "../layout";
+import { useGlobalDataStore } from "../stores/globalDataStore";
 import { TabComponent } from "../TabComponent/TabComponent";
 import { StyledGroupedTabsComponent } from "./Tabs.styles";
 

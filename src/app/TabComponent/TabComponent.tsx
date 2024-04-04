@@ -1,6 +1,6 @@
 import React from "react";
 import { TabComponentProps } from "./TabComponent.types";
-import { useGlobalDataStore } from "../layout";
+import { useGlobalDataStore } from "../stores/globalDataStore";
 import { StyledTabComponent } from "./TabComponent.styles";
 
 export const TabComponent:React.FC<TabComponentProps>= ({tabName, onTabSelection, tabIdx, key}) => {

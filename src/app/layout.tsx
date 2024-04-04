@@ -3,13 +3,7 @@
 import "./globals.css";
 import dynamic from 'next/dynamic';
 import { useEffect, useState } from "react";
-import { create } from "zustand";
 import { Tabs } from "./Tabs/Tabs";
-
-export const useGlobalDataStore = create((set) => ({
-  selectedTabIdx: 0,
-  setSelectedTabIdx: (idx: number) => set({selectedTabIdx: idx}),
-}))
 
 export default function RootLayout() {
   const World = dynamic(
