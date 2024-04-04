@@ -27,8 +27,7 @@ export default function RootLayout({
   }, []);
   return (
     <html lang="en">
-      Hello
-      <body className={inter.className}>{children}</body>
+      <body className={'main-body-class ' + inter.className}>{children}</body>
       {domLoaded && (
         <World />
       )}
