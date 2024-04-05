@@ -16,7 +16,7 @@ export const World = (labelsValues: any) => {
     labelText={(d: any) => d.properties.name}
     labelSize={(d: any) => Math.sqrt(d.properties.pop_max) * 4e-4}
     labelDotRadius={(d: any) => Math.sqrt(d.properties.pop_max) * 4e-4}
-    labelColor={() => 'rgba(255, 165, 0, 0.75)'}
+    labelColor={(d: any) => d.properties.labelColour}
     labelResolution={2}
     labelsTransitionDuration={3000}
   />;
