@@ -4,14 +4,9 @@ import "./globals.css";
 import dynamic from 'next/dynamic';
 import { useEffect, useState } from "react";
 import { Tabs } from "./Tabs/Tabs";
+import WorldWrapperComp from "./World/WorldWrapper";
 
 export default function RootLayout() {
-  const World = dynamic(
-    () => import('./World').then((module) => module.World),
-    {
-      ssr: false
-    }
-  );
   const [domLoaded, setDomLoaded] = useState(false);
 
   useEffect(() => {
@@ -25,12 +20,8 @@ export default function RootLayout() {
         <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
       </head>
       <body className={'main-body-class '}>
-        {domLoaded && (
-          <>
-            <Tabs />
-            <World />
-          </>
-        )}
+          <Tabs />
+          <WorldWrapperComp />
       </body>
     </html>
   );

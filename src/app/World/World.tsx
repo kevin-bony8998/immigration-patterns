@@ -1,17 +1,11 @@
 "use client";
 
 import React, { useState, useEffect, useRef } from "react";
-import { labelsValues } from "./datasets/constants";
 
 import Globe from "react-globe.gl";
 
-export const World = () => {
-  const [places, setPlaces] = useState<any>([]);
-
-  useEffect(() => {
-    setPlaces(labelsValues.features);
-  }, []);
-
+export const World = (labelsValues: any) => {
+  const places = labelsValues?.labelsValues?.features;
   return <Globe
     globeImageUrl="//unpkg.com/three-globe/example/img/earth-day.jpg"
     backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
