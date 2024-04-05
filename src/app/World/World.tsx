@@ -7,7 +7,7 @@ import Globe from "react-globe.gl";
 export const World = (labelsValues: any) => {
   const places = labelsValues?.labelsValues?.features;
   return <Globe
-    globeImageUrl="//unpkg.com/three-globe/example/img/earth-day.jpg"
+    globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
     backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
 
     labelsData={places}
