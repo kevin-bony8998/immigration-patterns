@@ -20,7 +20,8 @@ export const labelsValues = {
 }
 
 export const tabTitles = [
-    'Immigration Patterns in 2018',
-    'Immigration Patterns in 2019',
-    'Immigration Patterns in 2018 and 2019',
+    'Toruist Arrivals in 2018',
+    'Tourist Arrivals in 2019',
+    'Tourist Arrivals in 2018 and 2019',
+    'Tourist Arrivals in 2020',
 ]
