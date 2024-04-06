@@ -7,7 +7,7 @@ export const labelsValues_2018 = {
                 "name": "Egypt",
                 "latitude": "26.820553",
                 "longitude": "30.802498",
-                "pop_max": 13000000,
+                "pop_max": 11300000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -17,7 +17,7 @@ export const labelsValues_2018 = {
                 "name": "Morocco",
                 "latitude": "31.791702",
                 "longitude": "-7.092620",
-                "pop_max": 12900000,
+                "pop_max": 12300000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -27,8 +27,10 @@ export const labelsValues_2018 = {
                 "name": "South Africa",
                 "latitude": "-30.559483",
                 "longitude": "22.937506",
-                "pop_max": 10200000,
+                "pop_max": 10500000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
+                "pop_max": 10500000,
+                "labelColour": "yellow"
             }
         },
         {
@@ -37,7 +39,7 @@ export const labelsValues_2018 = {
                 "name": "Tunisia",
                 "latitude": "33.886917",
                 "longitude": "9.537499",
-                "pop_max": 9400000,
+                "pop_max": 8300000.000000001,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -47,7 +49,7 @@ export const labelsValues_2018 = {
                 "name": "Algeria",
                 "latitude": "28.033886",
                 "longitude": "1.659626",
-                "pop_max": 2400000,
+                "pop_max": 2700000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -57,7 +59,7 @@ export const labelsValues_2018 = {
                 "name": "Zimbabwe",
                 "latitude": "-18.4554963",
                 "longitude": "29.7468414",
-                "pop_max": 2300000,
+                "pop_max": 2600000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -67,7 +69,7 @@ export const labelsValues_2018 = {
                 "name": "Mozambique",
                 "latitude": "-19.302233",
                 "longitude": "34.9144977",
-                "pop_max": 2000000,
+                "pop_max": 2700000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -77,7 +79,7 @@ export const labelsValues_2018 = {
                 "name": "Ivory Coast",
                 "latitude": "7.9897371",
                 "longitude": "-5.5679458",
-                "pop_max": 0,
+                "pop_max": 2000000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -87,7 +89,7 @@ export const labelsValues_2018 = {
                 "name": "Kenya",
                 "latitude": "1.4419683",
                 "longitude": "38.4313975",
-                "pop_max": 0,
+                "pop_max": 1900000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -97,7 +99,7 @@ export const labelsValues_2018 = {
                 "name": "Botswana",
                 "latitude": "-23.1681782",
                 "longitude": "24.5928742",
-                "pop_max": 0,
+                "pop_max": 1700000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -107,7 +109,7 @@ export const labelsValues_2018 = {
                 "name": "United States",
                 "latitude": "39.7837304",
                 "longitude": "-100.445882",
-                "pop_max": 79300000,
+                "pop_max": 79700000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -117,8 +119,9 @@ export const labelsValues_2018 = {
                 "name": "Mexico",
                 "latitude": "23.6585116",
                 "longitude": "-102.0077097",
-                "pop_max": 45000000,
+                "pop_max": 41300000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
+  
             }
         },
         {
@@ -127,7 +130,7 @@ export const labelsValues_2018 = {
                 "name": "Canada",
                 "latitude": "61.0666922",
                 "longitude": "-107.991707",
-                "pop_max": 22100000,
+                "pop_max": 21100000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -137,7 +140,7 @@ export const labelsValues_2018 = {
                 "name": "Argentina",
                 "latitude": "-34.9964963",
                 "longitude": "-64.9672817",
-                "pop_max": 7400000,
+                "pop_max": 6900000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -147,7 +150,7 @@ export const labelsValues_2018 = {
                 "name": "Dominican Republic",
                 "latitude": "19.0974031",
                 "longitude": "-70.3028026",
-                "pop_max": 6400000,
+                "pop_max": 6600000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -157,7 +160,7 @@ export const labelsValues_2018 = {
                 "name": "Brazil",
                 "latitude": "-10.3333333",
                 "longitude": "-53.2",
-                "pop_max": 6400000,
+                "pop_max": 6600000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -167,7 +170,7 @@ export const labelsValues_2018 = {
                 "name": "Peru",
                 "latitude": "-6.8699697",
                 "longitude": "-75.0458515",
-                "pop_max": 5200000,
+                "pop_max": 5300000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -177,7 +180,7 @@ export const labelsValues_2018 = {
                 "name": "Chile",
                 "latitude": "-31.7613365",
                 "longitude": "-71.3187697",
-                "pop_max": 4500000,
+                "pop_max": 5700000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -187,7 +190,7 @@ export const labelsValues_2018 = {
                 "name": "Cuba",
                 "latitude": "23.0131338",
                 "longitude": "-80.8328748",
-                "pop_max": 4300000,
+                "pop_max": 4700000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -197,7 +200,7 @@ export const labelsValues_2018 = {
                 "name": "Colombia",
                 "latitude": "4.099917",
                 "longitude": "-72.9088133",
-                "pop_max": 4200000,
+                "pop_max": 4000000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -207,7 +210,7 @@ export const labelsValues_2018 = {
                 "name": "China",
                 "latitude": "35.000074",
                 "longitude": "104.999927",
-                "pop_max": 65700000,
+                "pop_max": 62900000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -217,7 +220,7 @@ export const labelsValues_2018 = {
                 "name": "Thailand",
                 "latitude": "14.8971921",
                 "longitude": "100.83273",
-                "pop_max": 39800000,
+                "pop_max": 38200000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -227,7 +230,7 @@ export const labelsValues_2018 = {
                 "name": "Japan",
                 "latitude": "36.5748441",
                 "longitude": "139.2394179",
-                "pop_max": 32200000.000000004,
+                "pop_max": 31200000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -237,7 +240,7 @@ export const labelsValues_2018 = {
                 "name": "Malaysia",
                 "latitude": "4.5693754",
                 "longitude": "102.2656823",
-                "pop_max": 26100000,
+                "pop_max": 25800000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -247,7 +250,7 @@ export const labelsValues_2018 = {
                 "name": "Hong Kong",
                 "latitude": "22.350627",
                 "longitude": "114.1849161",
-                "pop_max": 23800000,
+                "pop_max": 29300000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -257,7 +260,7 @@ export const labelsValues_2018 = {
                 "name": "Macau",
                 "latitude": "22.1899448",
                 "longitude": "113.5380454",
-                "pop_max": 18600000,
+                "pop_max": 18500000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -267,7 +270,7 @@ export const labelsValues_2018 = {
                 "name": "Vietnam",
                 "latitude": "15.9266657",
                 "longitude": "107.9650855",
-                "pop_max": 18000000,
+                "pop_max": 15500000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -277,7 +280,7 @@ export const labelsValues_2018 = {
                 "name": "India",
                 "latitude": "22.3511148",
                 "longitude": "78.6677428",
-                "pop_max": 17900000,
+                "pop_max": 17400000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -287,7 +290,7 @@ export const labelsValues_2018 = {
                 "name": "South Korea",
                 "latitude": "36.638392",
                 "longitude": "127.6961188",
-                "pop_max": 17500000,
+                "pop_max": 15300000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -297,7 +300,7 @@ export const labelsValues_2018 = {
                 "name": "Indonesia",
                 "latitude": "-2.4833826",
                 "longitude": "117.8902853",
-                "pop_max": 15500000,
+                "pop_max": 13400000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -307,7 +310,7 @@ export const labelsValues_2018 = {
                 "name": "France",
                 "latitude": "46.603354",
                 "longitude": "1.8883335",
-                "pop_max": 90900000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -317,7 +320,7 @@ export const labelsValues_2018 = {
                 "name": "Spain",
                 "latitude": "39.3260685",
                 "longitude": "-4.8379791",
-                "pop_max": 83500000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -327,7 +330,7 @@ export const labelsValues_2018 = {
                 "name": "Turkey",
                 "latitude": "38.9597594",
                 "longitude": "34.9249653",
-                "pop_max": 51200000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -337,7 +340,7 @@ export const labelsValues_2018 = {
                 "name": "Italy",
                 "latitude": "42.6384261",
                 "longitude": "12.674297",
-                "pop_max": 64500000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -347,7 +350,7 @@ export const labelsValues_2018 = {
                 "name": "United Kingdom",
                 "latitude": "54.7023545",
                 "longitude": "-3.2765753",
-                "pop_max": 39400000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -357,7 +360,7 @@ export const labelsValues_2018 = {
                 "name": "Germany",
                 "latitude": "51.1638175",
                 "longitude": "10.4478313",
-                "pop_max": 39600000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -367,7 +370,7 @@ export const labelsValues_2018 = {
                 "name": "Greece",
                 "latitude": "38.9953683",
                 "longitude": "21.9877132",
-                "pop_max": 31300000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -377,7 +380,7 @@ export const labelsValues_2018 = {
                 "name": "Austria",
                 "latitude": "47.59397",
                 "longitude": "14.12456",
-                "pop_max": 31900000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -387,7 +390,7 @@ export const labelsValues_2018 = {
                 "name": "Portugal",
                 "latitude": "39.6621648",
                 "longitude": "-8.1353519",
-                "pop_max": 24500000,
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -397,7 +400,8 @@ export const labelsValues_2018 = {
                 "name": "Netherlands",
                 "latitude": "52.2434979",
                 "longitude": "5.6343227",
-                "pop_max": 20100000,
+
+                "pop_max": 0,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -407,7 +411,7 @@ export const labelsValues_2018 = {
                 "name": "Saudi Arabia",
                 "latitude": "25.6242618",
                 "longitude": "42.3528328",
-                "pop_max": 17500000,
+                "pop_max": 15500000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -417,7 +421,7 @@ export const labelsValues_2018 = {
                 "name": "United Arab Emirates",
                 "latitude": "24.0002488",
                 "longitude": "53.9994829",
-                "pop_max": 16700000,
+                "pop_max": 15900000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -427,7 +431,7 @@ export const labelsValues_2018 = {
                 "name": "Iran",
                 "latitude": "32.6475314",
                 "longitude": "54.5643516",
-                "pop_max": 9100000,
+                "pop_max": 7300000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -437,7 +441,7 @@ export const labelsValues_2018 = {
                 "name": "Israel",
                 "latitude": "30.8124247",
                 "longitude": "34.8594762",
-                "pop_max": 4600000,
+                "pop_max": 4099999.9999999995,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -447,7 +451,7 @@ export const labelsValues_2018 = {
                 "name": "Jordan",
                 "latitude": "31.1667049",
                 "longitude": "36.941628",
-                "pop_max": 4500000,
+                "pop_max": 4200000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -457,7 +461,7 @@ export const labelsValues_2018 = {
                 "name": "Bahrain",
                 "latitude": "26.1551249",
                 "longitude": "50.5344606",
-                "pop_max": 3800000,
+                "pop_max": 4400000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -467,7 +471,7 @@ export const labelsValues_2018 = {
                 "name": "Oman",
                 "latitude": "21.0000287",
                 "longitude": "57.0036901",
-                "pop_max": 2500000,
+                "pop_max": 2300000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -477,7 +481,7 @@ export const labelsValues_2018 = {
                 "name": "Qatar",
                 "latitude": "25.3336984",
                 "longitude": "51.2295295",
-                "pop_max": 2100000,
+                "pop_max": 1800000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
             }
         },
@@ -487,8 +491,7 @@ export const labelsValues_2018 = {
                 "name": "Lebanon",
                 "latitude": "33.8750629",
                 "longitude": "35.843409",
-                "pop_max": 1900000,
-                "labelColour": "rgba(255, 118, 46, 0.5)"
+                "pop_max": 2000000,
             }
         }
     ],
