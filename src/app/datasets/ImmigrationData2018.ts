@@ -29,8 +29,6 @@ export const labelsValues_2018 = {
                 "longitude": "22.937506",
                 "pop_max": 10500000,
                 "labelColour": "rgba(255, 118, 46, 0.5)"
-                "pop_max": 10500000,
-                "labelColour": "yellow"
             }
         },
         {
