@@ -4,6 +4,21 @@ export const labelsValues_2018 = {
         {
             "type": "Feature",
             "properties": {
+                "tourists": 12900000,
+                "region": "Egypt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.2203,
+                    -25.3694,
+                ]
+            },
+            "id": "us7000mb1x"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Egypt",
                 "latitude": "26.820553",
                 "longitude": "30.802498",
