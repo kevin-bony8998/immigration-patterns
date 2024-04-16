@@ -1,5 +1,6 @@
 export const labelsValues_2019 = {
     "type": "FeatureCollection",
+    "yearValue": "2019",
     "features": [
         {
             "type": "Feature",
