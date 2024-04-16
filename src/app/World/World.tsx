@@ -39,10 +39,10 @@ export const World = (labelsValues: any) => {
   hexLabel={(d: any) => `
     Number of Tourists in the year <b>${places.yearValue}</b><ul>
       <li>
-        Name of region: ${d.points?.[0]?.properties.region}
+        ${d.points?.[0]?.properties.region}
       </li>
       <li>
-        No of tourists who visited the region: ${d.points?.[0]?.properties.tourists / 1000000} million
+        ${d.points?.[0]?.properties.tourists / 1000000} million
       </li>
     </ul>
   `}
