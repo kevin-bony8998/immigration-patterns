@@ -15,13 +15,13 @@ export const World = (labelsValues: any) => {
 
   const colorReturner = (yearValue: string) => {
     if (yearValue === '2018') {
-      return 'rgb(139, 0, 0)'
+      return 'rgb(213, 184, 255)'
     }
     else if (yearValue === '2019') {
-      return 'rgb(144, 238, 144)'
+      return 'rgb(134, 226, 213)'
     }
     else {
-      return 'rgb(173, 216, 230)'
+      return 'rgb(227, 61, 148)'
     }
   }
 
@@ -37,7 +37,7 @@ export const World = (labelsValues: any) => {
   hexTopColor={() => colorReturner(places.yearValue)}
   hexSideColor={() => colorReturner(places.yearValue)}
   hexLabel={(d: any) => `
-    Immigration Data from the year <b>${places.yearValue}</b><ul>
+    Number of Tourists in the year <b>${places.yearValue}</b><ul>
       <li>
         Name of region: ${d.points?.[0]?.properties.region}
       </li>

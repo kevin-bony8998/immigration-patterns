@@ -20,7 +20,7 @@ export const labelsValues = {
 }
 
 export const tabTitles = [
-    'Toruist Arrivals in 2018',
+    'Tourist Arrivals in 2018',
     'Tourist Arrivals in 2019',
     'Tourist Arrivals in 2018 and 2019',
     'Tourist Arrivals in 2020',
