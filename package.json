@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "d3": "^7.9.0",
     "d3-dsv": "^3.0.1",
+    "d3-node": "^3.0.0",
     "index-array-by": "^1.4.1",
     "next": "14.1.4",
     "react": "^18",
