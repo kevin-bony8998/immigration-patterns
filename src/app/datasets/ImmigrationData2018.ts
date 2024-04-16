@@ -4,16 +4,30 @@ export const labelsValues_2018 = {
         {
             "type": "Feature",
             "properties": {
+                "tourists": 12900000,
+                "region": "Egypt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.2203,
+                    -25.3694,
+                ]
+            },
+            "id": "us7000mb1x"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "tourists": 11300000,
                 "region": "Egypt",
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.820553,
                     30.802498,
+                    26.820553,
                 ],
-                "color": ['#ffffaa']
             },
             "id": "us7000mb1x"     
         },
@@ -26,8 +40,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.791702,
                     -7.092620,
+                    31.791702,
                 ]
             },
                 "id": "us7000mb1x"
@@ -41,8 +55,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -30.559483,
                     22.937506,
+                    -30.559483,
                 ]
             },
                 "id": "us7000mb1x"
@@ -56,8 +70,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.886917,
                     9.537499,
+                    33.886917,
                 ] 
             },
                 "id": "us7000mb1x"
@@ -71,8 +85,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.033886,
                     1.659626,
+                    28.033886,
                 ]   
             },
                 "id": "us7000mb1x"
@@ -86,8 +100,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -18.4554963,
                     29.7468414,
+                    -18.4554963,
                 ]
             },
                 "id": "us7000mb1x"
@@ -101,8 +115,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -19.302233,
                     34.9144977,
+                    -19.302233,
                 ]
             },
                 "id": "us7000mb1x"
@@ -116,8 +130,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.9897371,
                     -5.5679458,
+                    7.9897371,
                 ]
             },
                 "id": "us7000mb1x"
@@ -131,8 +145,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.4419683,
                     38.4313975,
+                    1.4419683,
                 ]
             },
                 "id": "us7000mb1x"
@@ -146,8 +160,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -23.1681782,
                     24.5928742,
+                    -23.1681782,
                 ] 
             },
                 "id": "us7000mb1x"
@@ -161,8 +175,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39.7837304,
                     -100.445882,
+                    39.7837304,
                 ]
             },
                 "id": "us7000mb1x"
@@ -191,8 +205,8 @@ export const labelsValues_2018 = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    61.0666922,
                     -107.991707,
+                    61.0666922,
                 ]
             },
                 "id": "us7000mb1x"
@@ -311,8 +325,8 @@ export const labelsValues_2018 = {
                 "tourists": 62900000,
                 "type": "Point",
                 "coordinates": [
-                    35.000074,
                     104.999927,
+                    35.000074,
                 ]
             },               
                 "id": "us7000mb1x"
@@ -341,8 +355,8 @@ export const labelsValues_2018 = {
             "geometry": { 
                 "type": "Point",
                 "coordinates": [
-                    36.5748441,
                     139.2394179,
+                    36.5748441,
                 ]  
             },
                 "id": "us7000mb1x"
@@ -417,8 +431,8 @@ export const labelsValues_2018 = {
             "geometry": { 
                 "type": "Point",
                 "coordinates": [
-                    22.3511148,
-                    78.6677428,   
+                    78.6677428, 
+                    22.3511148,  
                 ]
             },             
                 "id": "us7000mb1x"
@@ -432,8 +446,8 @@ export const labelsValues_2018 = {
             "geometry": { 
                 "type": "Point",
                 "coordinates": [
-                36.638392,
                 127.6961188,
+                36.638392,
                 ]
             },
                 "id": "us7000mb1x"

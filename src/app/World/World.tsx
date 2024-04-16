@@ -25,7 +25,7 @@ export const World = (labelsValues: any) => {
   hexTopColor={d => weightColor(d.sumWeight)}
   hexSideColor={d => weightColor(d.sumWeight)}
   hexLabel={(d: any) => `
-    Immigration Data from the year <b>${places.yearValue}</b><ul>
+    Number of Tourists from the year <b>${places.yearValue}</b><ul>
       <li>
         Name of region: ${d.points?.[0]?.properties.region}
       </li>
