@@ -21,7 +21,7 @@ export const World = (labelsValues: any) => {
       return 'rgb(134, 226, 213)'
     }
     else {
-      return 'rgb(227, 61, 148)'
+      return 'rgb(219, 105, 105)'
     }
   }
 
@@ -37,10 +37,10 @@ export const World = (labelsValues: any) => {
   hexTopColor={() => colorReturner(places.yearValue)}
   hexSideColor={() => colorReturner(places.yearValue)}
   hexLabel={(d: any) => `
-    Number of Tourists in the year <b>${places.yearValue}</b><ul>
-      <li>
+     <ul>
+      <li><b>
         ${d.points?.[0]?.properties.region}
-      </li>
+      </b></li>
       <li>
         ${d.points?.[0]?.properties.tourists / 1000000} million
       </li>

@@ -457,7 +457,7 @@ export const labelsValues_2018 = {
         {
             "type": "Feature",
             "properties": {
-                "tourists": 0,
+                "tourists": 89300000,
                 "region": "France",
             },
             "geometry": { 
